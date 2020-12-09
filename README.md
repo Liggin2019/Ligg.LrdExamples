@@ -7,4 +7,4 @@ The examples of Ligg.EasyWinApp, lets you have a more intuitive feeling of EasyW
 ### Ligg.Ewa.ItTk, IT Toolbox, 
 ### Ligg.Ewa.WmaTk, Windows maintenance automation Toolbox, 
 ### Ligg.Eww.DevTk, Dev Toolbox, 
-### Ligg.Eww.CmsCMS, Front-end. 
+### Ligg.Eww.Cms, CMS Front-end. 
